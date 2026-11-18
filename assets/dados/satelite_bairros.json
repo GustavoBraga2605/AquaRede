@@ -1,0 +1,13 @@
+{
+  "modelo": "aquarede_cnn.keras",
+  "gerado_em": "2026-11-18",
+  "origem": "EXEMPLO: substituir pelo JSON exportado do Colab",
+  "bairros": [
+    {"bairro": "Brasilândia", "classe": "urbano", "confianca": 0.81,
+     "probabilidades": {"agua": 0.02, "urbano": 0.81, "vegetacao_densa": 0.07, "campo_aberto": 0.10}},
+    {"bairro": "Capão Redondo", "classe": "urbano", "confianca": 0.74,
+     "probabilidades": {"agua": 0.03, "urbano": 0.74, "vegetacao_densa": 0.08, "campo_aberto": 0.15}},
+    {"bairro": "Cidade Tiradentes", "classe": "campo_aberto", "confianca": 0.68,
+     "probabilidades": {"agua": 0.04, "urbano": 0.22, "vegetacao_densa": 0.06, "campo_aberto": 0.68}}
+  ]
+}
