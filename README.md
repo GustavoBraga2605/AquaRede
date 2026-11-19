@@ -11,7 +11,7 @@
 
 ## Links
 
-- **Planejamento (Trello, Scrum):** [LINK-DO-TRELLO](https://LINK-DO-TRELLO)
+- **Planejamento (Trello, Scrum):** [TRELLO](https://trello.com/invite/b/6af5d62345a2b62cf0d4884f/ATTI223900ade77b9249a7a1b1df16d2e481E2A4DA1E/aquarede-gs2)
 - **Vídeo explicativo (até 3 minutos):** [LINK-DO-VIDEO](https://LINK-DO-VIDEO) · roteiro em [`docs/roteiro-video.pdf`](docs/roteiro-video.pdf)
 
 ## Sumário
